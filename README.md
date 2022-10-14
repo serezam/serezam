@@ -16,3 +16,5 @@
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-telegram-2d2929?style=for-the-badge&logo=telegram)](https://t.me/serezam)
 [![VK](https://img.shields.io/badge/-VK-2d2929?style=for-the-badge&logo=vk)](https://vk.com/karelin495)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serezam&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
