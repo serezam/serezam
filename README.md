@@ -1,6 +1,6 @@
 ![header](https://github.com/serezam/serezam/blob/main/assets/888888.png)
 
-Я  QA engineer
+### Я  QA engineer
 
 ### Tools
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-2d2929?style=for-the-badge&logo=postman)
@@ -13,4 +13,6 @@
 ![CHARLES](https://img.shields.io/badge/-CHARLESPROXY-2d2929?style=for-the-badge&logo=proxy)
 
 
-Follow me
+### Follow me
+[![Telegram](https://img.shields.io/badge/-telegram-2d2929?style=for-the-badge&logo=telegram)](https://t.me/serezam)
+[![VK](https://img.shields.io/badge/-VK-2d2929?style=for-the-badge&logo=vk)](https://vk.com/karelin495)
