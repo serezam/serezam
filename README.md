@@ -13,8 +13,11 @@
 ![CHARLES](https://img.shields.io/badge/-CHARLESPROXY-2d2929?style=for-the-badge&logo=proxy)
 
 
-### Follow me
+### Контакты
 [![Telegram](https://img.shields.io/badge/-telegram-2d2929?style=for-the-badge&logo=telegram)](https://t.me/serezam)
 [![VK](https://img.shields.io/badge/-VK-2d2929?style=for-the-badge&logo=vk)](https://vk.com/karelin495)
+
+### Тестовая документация
+* [Мои чек-листы и тест-кейсы](https://docs.google.com/spreadsheets/d/1xorcPctst0EJUCm8aqWXP-eXf4aLzp4jB6hMUVeTHO0/edit?usp=sharing)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serezam&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
