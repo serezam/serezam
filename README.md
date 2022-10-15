@@ -2,7 +2,7 @@
 
 ### Я  QA engineer
 
-### Tools
+### Инструменты и языки
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-2d2929?style=for-the-badge&logo=postman)
 ![SWAGGER](https://img.shields.io/badge/-SWAGGER-2d2929?style=for-the-badge&logo=swagger)
 ![github](https://img.shields.io/badge/-GITHUB-2d2929?style=for-the-badge&logo=github)
