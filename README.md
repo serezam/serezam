@@ -19,5 +19,6 @@
 
 ### Тестовая документация
 * [Мои чек-листы и тест-кейсы](https://docs.google.com/spreadsheets/d/1xorcPctst0EJUCm8aqWXP-eXf4aLzp4jB6hMUVeTHO0/edit?usp=sharing)
+* [Мои SQL запросы](https://docs.google.com/document/d/1v1bhapKmAf7YNoL8CNYMme627QAQfSUL6VBz1e4K1lE/edit)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serezam&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
